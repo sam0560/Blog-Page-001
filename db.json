@@ -1,1 +1,34 @@
-
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "Why do you use it?\nIt is long established fact that a render will be distracted to use",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Making post request into json application",
+      "body": "fetch(URL, {\n    method: 'POST',\n    headers: {'Content-Type': 'application.json'},\n    body: JSON.stringify(blog)\n}).then(() =>{ console.log(Post request has been made)",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "Checking",
+      "body": "New body for checking",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "This is a new blog",
+      "body": "lorem50\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptatem molestias libero error nemo, aliquam nulla atque repudiandae unde corrupti praesentium? Nulla sapiente maiores nemo totam quam, nesciunt recusandae! Aliquid?",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "Blog Title",
+      "body": "Blog body",
+      "author": "mario",
+      "id": 7
+    }
+  ]
+}
